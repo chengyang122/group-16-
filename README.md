@@ -5,3 +5,5 @@ We only include the LSTM here with limited data so you can try it directly on co
 https://drive.google.com/drive/folders/1LbnWN_blTvUL-LKY8CL8wllqUI3SDrmQ?usp=sharing
 You can also choose to run it directly from our google drive class_demo folder. Just add add a short cut to your drive, which is easier. 
 https://drive.google.com/drive/folders/1VyKcm5slRee-UeDTUs8VX3yiENPglX1S?usp=sharing
+
+send me email if you have any questions ycheng04 at usc.edu
